@@ -1,5 +1,12 @@
 # Angular2demo
+Angular 2 Demo Application with bootstrap template
 
+Bootstrap Theme URL: https://startbootstrap.com/template-overviews/creative/
+
+# Prerequisites
+*	Node js
+* npm 
+* AngularCLI
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
 ## Development server
@@ -29,3 +36,6 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Get started
+ng new angular2demo
